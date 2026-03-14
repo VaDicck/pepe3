@@ -67,7 +67,7 @@ def get_schedule(week, day):
                 print(f"{lesson['room']}")
             print("-" * 40)
 
-
+#тут тоже будет комментарий топовый
 while True:
     print("\n" + "=" * 60)
     # Добавлено
